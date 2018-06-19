@@ -3,10 +3,13 @@
 
 
 初次建立文件的內容
-第二行
+第二行+3
 
 第一次修改文件內容，然後commit
 11111111111111111
+
+A lingua franca is a common language that serves as a bridge between speakers with different native languages.
+通用語是擁有不同母語的交談者所共同理解的語言，能夠作為他們之間的橋樑。
 
 
 
